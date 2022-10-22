@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: sans-serif;
+    line-height: 20px;
+  }
+
+.contenitore{ 
+  margin: 24px 18%;
+  padding: 4%;
+  background-color:rgba(0, 0, 0, 0.5);
+  border-radius: 24px;
+  }
+
+header h1 {
+  color:#00dd00;
+  display: block;
+}
+
+header{
+text-align: center;
+}
+
+#logo{
+  height: 96px;
+}
+
+nav{
+  background-color: #00dd00;
+  text-align: center;
+  margin-top: 8px;
+}
+
+button{
+padding: 0px 4px;
+margin: 12px 4px;
+}
+
+h2, h1{
+  display: inline;
+}
+
+.monopattino{
+  margin: 24px 0px;
+}
+
+.carica{
+  border-radius: 4px;
+  display: block;
+  height: 24px;
+  margin-top: 2px;
+}
+
+#primo{
+  background-color: #f5b453;
+  width: 35%;
+}
+
+#secondo{
+  background-color: #1ec31e;
+  width: 60%;
+}
+
+#terzo{
+  background-color: #be4141;
+  width: 15%;
+}
+
+h2, span{
+  font-size: 13px;
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+
+
+
+
+
+
